@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #8FEEEC;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	background: #8FBEEE;
+	color: #FFFFFF;
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+header .titulo{
+	font-size: 63px;
+	font-family: 'Roboto', sans-serif;
+}
